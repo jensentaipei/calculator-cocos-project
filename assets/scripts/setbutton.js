@@ -37,6 +37,10 @@ cc.Class({
             this.node.getChildByName("Background")
             .color=new cc.color(255,100,38);
         }
+        else if(this.title==="←"){
+            this.node.getChildByName("Background")
+            .color=new cc.color(201,198,198);
+        }
 
     },
 

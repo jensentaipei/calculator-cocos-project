@@ -239,13 +239,13 @@
       "__id__": 2
     },
     "_enabled": true,
-    "ButtonPrefab": {
+    "buttonPrefab": {
       "__uuid__": "dccd3b02-ae2a-4ec2-828b-f4d502bf21d0"
     },
-    "ScoreDisplayPrefab": {
-      "__uuid__": "b2bc2a1b-17d5-4f45-ab21-f5b2d66fc9e7"
+    "scoreDisplayPrefab": {
+      "__uuid__": "e8969d42-e224-4da5-8fda-7dcd64b1945d"
     },
-    "changetoggle": {
+    "styleChangeToggle": {
       "__uuid__": "c25cce5f-ec5d-4c3a-a858-20e1b7c18f48"
     },
     "normal": {
@@ -259,6 +259,18 @@
     },
     "pressCircle": {
       "__uuid__": "af999448-3b2d-4388-8d7b-9bb94c8a6d7f"
+    },
+    "slideFontSize": {
+      "__uuid__": "361f0fd6-ddac-4c3c-8425-8129230c9e6a"
+    },
+    "featuresPrefab": {
+      "__uuid__": "5a01425e-dad5-4f2f-8c56-73925e2a2c81"
+    },
+    "keyBoard": {
+      "__uuid__": "e5f43f17-54f6-4c69-94b9-865343e6bb22"
+    },
+    "scoreColorToggle": {
+      "__uuid__": "cfad30da-dde8-4b80-a3f5-ee68757e27eb"
     },
     "_id": "c7B8fRlCxCv6v2e9YJbtVU"
   }
